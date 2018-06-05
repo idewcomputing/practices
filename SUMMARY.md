@@ -6,3 +6,5 @@
 
 ## Practices
 
+* [Glossary](glossary.md)
+
