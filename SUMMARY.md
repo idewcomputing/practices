@@ -9,6 +9,7 @@
 * [Background Research](practices/background-research.md)
 * [Competitive Analysis](practices/competitive-analysis.md)
 * [Concept Proposals](practices/concept-proposals.md)
+* [Ideation](practices/ideation.md)
 * [Interaction Storyboards](practices/interaction-storyboards.md)
 * [Interviews](practices/interviews.md)
 * [Personas](practices/personas.md)
