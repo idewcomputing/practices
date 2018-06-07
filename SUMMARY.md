@@ -8,9 +8,9 @@
 
 * [Background Research](practices/background-research.md)
 * [Competitive Analysis](practices/competitive-analysis.md)
+* [Concept Proposals](practices/concept-proposals.md)
 * [Interaction Storyboards](practices/interaction-storyboards.md)
 * [Personas](practices/personas.md)
 * [Problem Statements](practices/problem-statements.md)
-* [Proposals](practices/proposals.md)
 * [Glossary](glossary.md)
 
