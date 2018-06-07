@@ -14,5 +14,4 @@
 * [Interviews](practices/interviews.md)
 * [Personas](practices/personas.md)
 * [Problem Statements](practices/problem-statements.md)
-* [Glossary](glossary.md)
 
