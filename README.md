@@ -1,2 +1,2 @@
-# Principles and Practices in Computing by Design
+# Principles & Practices in Computing by Design
 
