@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Principles and Practices in Computing](README.md)
+* [Principles and Practices in Computing by Design](README.md)
 
 ## Principles
 
