@@ -14,5 +14,5 @@
   * [Interaction Storyboards](practices/design-practices/interaction-storyboards.md)
   * [Interviews](practices/design-practices/interviews.md)
   * [Personas](practices/design-practices/personas.md)
-  * [Problem Statements](practices/design-practices/problem-statements.md)
+  * [Value Proposition](practices/design-practices/value-proposition.md)
 
