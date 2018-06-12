@@ -6,5 +6,5 @@ Value propositions clearly define key aspects of your design that demonstrate it
 
 ## **Student Example**
 
-### For teachers who struggle with taking attendance all day or find it distracting to classwork, Attendance Checker is a device that will help make attendance easier for every class period of the day where students initiate the check-in.
+### For teachers who struggle with taking attendance all day or find it disruptive to the beginning of class, Attendance Checker is a device that will help make attendance easier for every class period of the day where students initiate the check-in as they enter the classroom.
 
