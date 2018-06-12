@@ -1,6 +1,6 @@
 # Value Proposition
 
-Value propositions clearly define key aspects of your design that demonstrate it is a valuable and worthwhile product or service. It can be used to guide many types of services or products. Here is a template to get you started.
+Value propositions clearly define key aspects of your design that demonstrate it is a valuable and worthwhile product or service. It provides focus for the design of many types of services or products. Here is a template to get you started.
 
 > **For** _****\[describe target users\]_ **who** _****\[describe problem or need\],\[name of product/service\]_ **is a** _****\[describe type of product/service\]_ **that** _****\[describe benefit or value\]._
 
