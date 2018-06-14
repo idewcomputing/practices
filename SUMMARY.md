@@ -4,6 +4,8 @@
 
 ## Principles
 
+* [Libraries](principles/libraries.md)
+
 ## Practices
 
 * [Design Practices](practices/design-practices/README.md)
