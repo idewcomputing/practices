@@ -4,7 +4,8 @@
 
 ## Principles
 
-* [Libraries](principles/libraries.md)
+* [Programming Principles](principles/programming-principles/README.md)
+  * [Libraries](principles/programming-principles/libraries.md)
 
 ## Practices
 
