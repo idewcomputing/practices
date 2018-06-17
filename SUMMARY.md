@@ -21,5 +21,6 @@
   * [Interaction Storyboards](practices/design-practices/interaction-storyboards.md)
   * [Interviews](practices/design-practices/interviews.md)
   * [Personas](practices/design-practices/personas.md)
+  * [Think-aloud Protocol](practices/design-practices/think-aloud-protocol.md)
   * [Value Proposition](practices/design-practices/value-proposition.md)
 
