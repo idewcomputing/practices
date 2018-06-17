@@ -40,7 +40,8 @@ By assigning a class or id to an HTML element you can apply specific styles in a
 5. Go ahead and give Patrick's text a _class_ of "card" and then add a unique _id_ to his HTML element and some CSS to make his card stand out from all the others. 
 
 {% hint style="warning" %}
-**Class** - An HTML class is selected in CSS with a **`#`** prefix and should be used to target a single element on a page.
+**id** - An HTML class is selected in CSS with a `#` prefix and should be used to target a single element on a page.
 
-**ID** - An HTML id is selected in CSS with a `.` prefix and can be used to select several elements that will share a common style.
+**class** - An HTML id is selected in CSS with a `.` prefix and can be used to select several elements that will share a common style.
 {% endhint %}
+

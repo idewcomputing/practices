@@ -40,3 +40,4 @@ Look at the HTML below. Do you see how the _container_ could be called the **par
 2. Notice in the browser preview how the nesting becomes visually apparent.
 3. Also, notice how the indentation in the HTML is really helpful to see the proper structure. Technically the indentation does not need to be there, but it is a good programming practice.
 4. Add a parent `<div>` element with a class of "outer-container" to the _container_  with a solid border. Use good indentation in your HTML.
+
