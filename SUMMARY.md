@@ -19,6 +19,7 @@
   * [Concept Proposals](practices/design-practices/concept-proposals.md)
   * [Ideation](practices/design-practices/ideation.md)
   * [Interaction Storyboards](practices/design-practices/interaction-storyboards.md)
+  * [Interface Mockups](practices/design-practices/interface-mockups.md)
   * [Interviews](practices/design-practices/interviews.md)
   * [Personas](practices/design-practices/personas.md)
   * [Think-aloud Protocol](practices/design-practices/think-aloud-protocol.md)
