@@ -6,6 +6,10 @@
 
 * [Programming Principles](principles/programming-principles/README.md)
   * [Libraries](principles/programming-principles/libraries.md)
+  * [HTML](principles/programming-principles/html.md)
+  * [CSS](principles/programming-principles/css.md)
+  * [Classes & IDs \(HTML/CSS/JS\)](principles/programming-principles/classes-and-ids-html-css-js.md)
+  * [HTML Nesting](principles/programming-principles/html-nesting.md)
 
 ## Practices
 
