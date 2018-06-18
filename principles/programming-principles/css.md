@@ -19,7 +19,12 @@ p {
 
 ### Try it out
 
-1. Copy the CSS code above and add it to your CodePen from the [**HTML Quick Start**](https://github.com/idewcomputing/principles-and-practices/tree/ad0ee94e119699b4b7a41b02f9d3b7ac1cf06206/principles/programming-principles/html-quick-start.md), and notice how the browser preview has changed.
+1. Copy the CSS code above and add it to your CodePen from the [**HTML Exercise**](https://docs.idew.org/principles-and-practices/principles/programming-principles/html), and notice how the browser preview has changed.
 2. Modify the CSS by changing colors and font-size.
-3. Customize your look by adding these style properties on the HTML elements you choose. [Border](https://www.w3schools.com/cssref/pr_border.asp) [Margin](https://www.w3schools.com/cssref/pr_margin.asp) [Padding](https://www.w3schools.com/cssref/pr_padding.asp) [Box-shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) - This one is cool. 
+3. Customize your look by adding the style properties below on the HTML elements you choose. 
+
+* [Border](https://www.w3schools.com/cssref/pr_border.asp) 
+* [Margin](https://www.w3schools.com/cssref/pr_margin.asp) 
+* [Padding](https://www.w3schools.com/cssref/pr_padding.asp) 
+* [Box-shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) - This one is cool. 
 
