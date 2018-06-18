@@ -2,7 +2,7 @@
 
 ## HTML Basics
 
-HTML provides the structure for web pages and uses _elements_ with _tag names_ to differentiate items on the page. For example, `<h1>...</h1>` is a large heading element. Notice the _opening tag_ `<h1>` and _closing tag_ `</h2>` that indicates the beginning and end of the element. "h1" is the tag name in this case.
+HTML provides the structure for web pages and uses _elements_ with _tag names_ to differentiate items on the page. For example, `<h1>...</h1>` is a large heading element. Notice the _opening tag_ `<h1>` and _closing tag_ `</h1>` that indicates the beginning and end of the element. "h1" is the tag name in this case.
 
 ```markup
 <h1>Favorite Technology Sites</h1>
