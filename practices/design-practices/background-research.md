@@ -1,4 +1,6 @@
 # Background Research
 
-\#design
+## Examples
+
+![](../../.gitbook/assets/backgroundresearchnotes.png)
 
