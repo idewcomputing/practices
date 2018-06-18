@@ -10,6 +10,10 @@
   * [CSS](principles/programming-principles/css.md)
   * [Classes & IDs \(HTML/CSS/JS\)](principles/programming-principles/classes-and-ids-html-css-js.md)
   * [HTML Nesting](principles/programming-principles/html-nesting.md)
+  * [jQuery](principles/programming-principles/jquery.md)
+  * [JavaScript Variables](principles/programming-principles/js-variables.md)
+  * [JavaScript Functions](principles/programming-principles/js-functions.md)
+  * [JavaScript Conditionals](principles/programming-principles/js-conditionals.md)
 
 ## Practices
 
