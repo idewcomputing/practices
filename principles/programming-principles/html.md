@@ -13,6 +13,6 @@ HTML provides the structure for web pages and uses _elements_ with _tag names_ t
 ### Try it out
 
 1. Copy and past the HTML above into [**a new CodePen**](https://codepen.io/pen/) and notice how the browser preview looks.
-2. Read these explanations on W3schools.com. [Headings](https://www.w3schools.com/html/html_headings.asp) [Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) [Links](https://www.w3schools.com/html/html_links.asp)
+2. Read these explanations on W3schools.com. [Headings](https://www.w3schools.com/html/html_headings.asp), [Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp), and [Links](https://www.w3schools.com/html/html_links.asp)
 3. Add two more sites to the list with each having it's own "h3", "p", and "a" elements.
 
