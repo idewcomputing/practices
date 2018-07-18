@@ -29,6 +29,8 @@ There are different formats for personas, but personas are usually condensed to 
 {% endtab %}
 
 {% tab title="✓ PROCESS" %}
+[Persona Template](https://drive.google.com/open?id=1osCQyHANhkd-mhSi3pqS-eDHLCoJ6HWfLkiK4UPMOkI)
+
 1. Identify types of people that might use your product \(or be affected by its use\). These people might be direct users of the product, or they might be other stakeholders that are interested in how the product performs, data gathered by the product, etc.
 2. As a team, develop a standardized set of interview questions that will allow your team to analyze and consolidate the user research data to create a persona:
    1. What **background information** about the person \(age, gender, role, experience, etc.\) might affect how the product is used or designed?
