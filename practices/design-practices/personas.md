@@ -45,9 +45,9 @@ There are different formats for personas, but personas are usually condensed to 
 {% endtab %}
 
 {% tab title="➤ EXAMPLES" %}
-![](../../.gitbook/assets/personaexample.png)
+![Persona for Trivia App](../../.gitbook/assets/personaexample.png)
 
-![](../../.gitbook/assets/iot-persona-example.jpg)
+![Persona for IoT Device](../../.gitbook/assets/iot-persona-example.jpg)
 {% endtab %}
 
 {% tab title="★ RESOURCES" %}
