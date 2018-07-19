@@ -39,6 +39,8 @@ In addition, other types of design requirements for a solution might include:
 * **Maintenance and Support Requirements** \(criteria for how solution will be maintained and supported in the future\)
 * etc.
 
+[Design Requirements Template](https://drive.google.com/open?id=1s90kNoqE8tlwiD8g6EMzBsmf9aAJUIFmllBKfHcyf7c)
+
 ## Measuring Requirements
 
 An important aspect of any design requirement is the ability to **objectively determine or measure whether the requirement was met \(or to what degree it was met\)**. A vague requirement will be less helpful when designing, building, and evaluating a product – so make each requirement as clear and specific as possible.
