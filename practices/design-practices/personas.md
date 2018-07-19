@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="◼ EXPLANATION" %}
-A **persona** is a model of a target user for a product or service. A persona summarizes the target user’s background, goals, and needs related to the product. The persona helps you better understand your target users, so you can design a solution to meet their expectations.
+A **persona** is a description of a target user for a product or service. A persona summarizes the target user’s background, goals, and needs related to the product. The persona helps you better understand your target users, so you can design a solution to meet their expectations.
 
 A persona is based on user research data collected from **multiple** users through observations, interviews, surveys, etc. However, the persona is presented as a description of an individual person, even though the persona actually represents a group of users with similar characteristics.
 
