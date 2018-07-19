@@ -6,7 +6,7 @@ The value proposition is a quick way to communicate your product concept to outs
 
 There are different formats or templates for creating a value proposition. Here is a commonly-used template that works well for most products and services:
 
-> **For** _****\[describe target users\]_ **who** _****\[describe problem or need\], \[name of product/service\]_  **is a** _****\[describe type of product/service\]_  **that** _****\[describe benefit or value\]._
+* **For** _****\[describe target users\]_ **who** _****\[describe problem or need\], \[name of product\]_  **is a** _****\[describe type of product\]_  **that** _****\[describe benefit or value\]._
 
 ## **Student Example**
 
