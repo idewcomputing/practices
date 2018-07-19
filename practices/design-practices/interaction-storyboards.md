@@ -15,10 +15,10 @@ Because it is easier to create low-fidelity mockups, designers can test multiple
 
 As the design process proceeds further, designers typically create screen mockups that are more **high-fidelity** by adding color and details to make the screen look closer to a final version. People reviewing high-fidelity mockups tend to provide feedback that focuses more on details of features \(because they naturally assume the design is closer to complete\), such as:
 
-* whether they find the fonts, colors, etc. visually appealing
-* whether they find images and other content engaging
+* whether the user finds the fonts, colors, etc. visually appealing
+* whether the user finds the text, images, etc. engaging
 
-However, if your screen layout and task flow don't make sense, it will be apparent even if your screens are high-fidelity – because users and other reviewers will not understand how to interact with the website or app.
+However, if your screen layout and task flow don't make sense, it will likely still be apparent even if your screen mockups are high-fidelity – because the users will not understand how to interact with the website or app.
 {% endtab %}
 
 {% tab title="✓ PROCESS" %}
