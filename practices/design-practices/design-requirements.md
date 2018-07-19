@@ -1,5 +1,7 @@
 # Design Requirements
 
+## Establishing Requirements
+
 **Design requirements** list specific criteria that a new product or service must meet in order to be considered successful.
 
 It is essential to establish these requirements up-front, so they can be used to help your team design, develop, and evaluate your solution.
@@ -34,4 +36,10 @@ In addition, other types of design requirements for a solution might include:
 * **Legal and Regulatory Requirements** \(criteria that ensure the solution adheres to any relevant laws or regulations\)
 * **Maintenance and Support Requirements** \(criteria for how solution will be maintained and supported in the future\)
 * etc.
+
+## Measuring Requirements
+
+An important aspect of any design requirement is the ability to **objectively determine or measure whether the requirement was met \(or to what degree it was met\)**. A vague requirement will be less helpful when designing, building, and evaluating a product – so make each requirement as clear and specific as possible.
+
+After a solution has been designed and built, data from evaluations \(such as usability testing, etc.\) can provide evidence of how well the design requirements were met.
 
