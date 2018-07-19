@@ -1,7 +1,11 @@
-# Personas
+# Personas and Scenarios
+
+
 
 {% tabs %}
 {% tab title="◼ EXPLANATION" %}
+## Persona
+
 A **persona** is a description of a target user for a product or service. A persona summarizes the target user’s background, goals, and needs related to the product. The persona helps you better understand your target users, so you can design a solution to meet their expectations.
 
 A persona is based on user research data collected from **multiple** users through observations, interviews, surveys, etc. However, the persona is presented as a description of an individual person, even though the persona actually represents a group of users with similar characteristics.
@@ -23,7 +27,13 @@ There are different formats for personas, but personas are usually condensed to 
 * **Frustrations and Concerns** \(what pain points does user experience with the current situation or current solutions\)
 * **Needs and Expectations** \(what are user’s expectations related to the functionality, usability, and user experience of possible new solution\)
 
-A product or service might have many different types of users with different backgrounds, goals, and needs. Therefore, different personas could be created to model these different types of users. However, it may not be possible \(or desirable\) to design an solution that tries to meet the needs of every possible type of user. Often this results in a solution that doesn’t actually satisfy anyone. Instead, it is recommended to identify the **primary type of user** that will be your main target for designing your solution.
+A product or service might have many different types of users with different backgrounds, goals, and needs. Therefore, different personas could be created to model these different types of users. However, it might not be possible \(or desirable\) to design an solution that tries to meet the needs of every possible type of user. Often this results in a solution that doesn’t actually satisfy anyone. Instead, it is recommended to identify the **primary type of user** that will be your main target for designing your solution.
+
+## Scenario
+
+A persona is typically combined with one or more scenarios. A **scenario** is a brief story that describes how and why the persona would use the product to complete a specific task in a specific context. Different scenarios could be written for different tasks or different contexts.
+
+The purpose of a scenario is to help the design team visualize how a target user would interact with the product in real-life. This can help with determining the functions and features of the product for design requirements, as well as with developing tasks for usability testing.
 {% endtab %}
 
 {% tab title="✓ PROCESS" %}
@@ -49,7 +59,11 @@ A product or service might have many different types of users with different bac
 {% endtab %}
 
 {% tab title="★ RESOURCES" %}
-[Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/) from Nielsen Norman Group
+[Personas](https://www.usability.gov/how-to-and-tools/methods/personas.html) and [Scenarios](https://www.usability.gov/how-to-and-tools/methods/scenarios.html) from Usability.gov
+
+​[Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/) from Nielsen Norman Group
+
+[Turn User Goals Into Task Scenarios for Usability Testing](https://www.nngroup.com/articles/task-scenarios-usability-testing/) from Nielsen Norman Group
 {% endtab %}
 {% endtabs %}
 
