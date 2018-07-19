@@ -21,6 +21,7 @@
   * [Background Research](practices/design-practices/background-research.md)
   * [Competitive Analysis](practices/design-practices/competitive-analysis.md)
   * [Concept Proposals](practices/design-practices/concept-proposals.md)
+  * [Design Requirements](practices/design-practices/design-requirements.md)
   * [Ideation](practices/design-practices/ideation.md)
   * [Interaction Storyboards](practices/design-practices/interaction-storyboards.md)
   * [Interactive Prototype](practices/design-practices/interactive-prototype.md)
