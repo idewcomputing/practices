@@ -1,5 +1,7 @@
 # Design Requirements
 
+{% tabs %}
+{% tab title="◼ EXPLANATION" %}
 ## Establishing Requirements
 
 **Design requirements** list specific criteria that a new product or service must meet in order to be considered successful.
@@ -42,4 +44,10 @@ In addition, other types of design requirements for a solution might include:
 An important aspect of any design requirement is the ability to **objectively determine or measure whether the requirement was met \(or to what degree it was met\)**. A vague requirement will be less helpful when designing, building, and evaluating a product – so make each requirement as clear and specific as possible.
 
 After a solution has been designed and built, data from evaluations \(such as usability testing, etc.\) can provide evidence of how well the design requirements were met.
+{% endtab %}
+
+{% tab title="➤ EXAMPLES" %}
+![](../../.gitbook/assets/design-requirements-example.jpg)
+{% endtab %}
+{% endtabs %}
 
