@@ -2,7 +2,7 @@
 
 **Design requirements** list specific criteria that a new product or service must meet in order to be considered successful.
 
-It is essential to identify these requirements up-front, so they can be used to help you design, develop, and evaluate your solution.
+It is essential to establish these requirements up-front, so they can be used to help your team design, develop, and evaluate your solution.
 
 There are different types of design requirements. Three key types of requirements are:
 
