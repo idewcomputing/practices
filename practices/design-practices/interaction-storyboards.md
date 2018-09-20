@@ -15,7 +15,7 @@ Early in the design process, designers typically create screen mockups that are 
 Because it is faster and easier to create low-fidelity mockups, designers can test multiple variations and make revisions until they have sufficient evidence that the general screen layout and task flow makes sense.
 
 {% hint style="success" %}
-Early in the design process, the task\(s\) that you select for your interaction storyboard\(s\) should be **primary** tasks that are central to the purpose of your product. Do **NOT** select secondary tasks such as: creating an account, logging into the app, adjusting profile settings, etc.  Secondary tasks should be storyboarded after you have already designed and tested the primary tasks.
+Early in the design process, the task\(s\) that you select for your interaction storyboard\(s\) should be **primary** tasks that are central to the purpose of your product. Do **NOT** select secondary tasks such as: creating an account, logging into the app, adjusting profile settings, etc.  Secondary tasks should only be storyboarded after you have already designed and tested the primary tasks.
 {% endhint %}
 
 As the design process proceeds further, designers typically create screen mockups that are more **high-fidelity** by adding color and details to make the screen look closer to a final version. People reviewing high-fidelity mockups tend to provide feedback that focuses more on details \(because people assume the design is closer to final\), such as:
