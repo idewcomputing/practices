@@ -27,6 +27,7 @@
   * [Interactive Prototype](practices/design-practices/interactive-prototype.md)
   * [Interface Mockups](practices/design-practices/interface-mockups.md)
   * [Interviews](practices/design-practices/interviews.md)
+  * [Narrative Storyboards](practices/design-practices/narrative-storyboards.md)
   * [Personas and Scenarios](practices/design-practices/personas.md)
   * [Think-aloud Protocol](practices/design-practices/think-aloud-protocol.md)
   * [Value Proposition](practices/design-practices/value-proposition.md)
