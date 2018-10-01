@@ -30,6 +30,7 @@
   * [Narrative Storyboards](practices/design-practices/narrative-storyboards.md)
   * [Personas and Scenarios](practices/design-practices/personas.md)
   * [Think-aloud Protocol](practices/design-practices/think-aloud-protocol.md)
+  * [User Testing](practices/design-practices/user-testing.md)
   * [Value Proposition](practices/design-practices/value-proposition.md)
 * [Programming Practices](practices/programming-practices/README.md)
   * [Code Testing](practices/programming-practices/code-testing.md)
