@@ -1,4 +1,4 @@
-# User Testing
+# User Testing \(Usability Testing\)
 
 **User testing \(also called usability testing\)** is a method for testing the usability of a prototype or product by observing users as they try to complete tasks using the prototype/product.
 
