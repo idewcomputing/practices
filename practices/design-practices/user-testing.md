@@ -15,17 +15,19 @@ User testing consists of four major steps:
 
 ## Create Task Scenarios
 
-1. Identify each task that you want to test with your prototype/product. If necessary, prioritize the most important tasks to be tested during the session. Decide on the order of the specific tasks for the testing session.
-2. Write a brief scenario \(1-3 sentences\) for each task that provides a context \(plus any necessary details\) for completing the task.
-3. Print two copies of each task on separate pieces of paper \(one for the participant & one for your team\).
+1. Identify each task that you want to test with your prototype/product during the session, and determine a logical order for the tasks.
+2. Write a brief scenario \(2-4 sentences\) for each task that provides a context \(plus any necessary details\) for completing the task.
+3. Print two copies of each task \(one copy for the participant & one copy for your team\). List each task on a separate slip of paper, so you can give the tasks one at a time to the participant.
 
-The scenario should **not** provide specific steps or any clues for how to complete the task. However, the scenario should provide a brief reason for the task and any details needed to complete the task.
+You'll only be able to test a limited number of tasks during a particular session, so prioritize the most important tasks that should be tested. Depending on how each testing session proceeds, your team might need to skip certain tasks or change the order of the tasks.
+
+The scenario should **not** provide specific steps or any clues for how to complete the task. However, the scenario should provide a context/reason for why the person is trying to complete the task, as well as any detailed information needed to complete the task.
 
 For example, a task for an airline website might be to “book a flight.” The task scenario might be something like:
 
 > You're planning a family vacation to Colorado. You need tickets for 4 people to fly from Indianapolis to Denver. You want to leave on a Saturday in July and come back one week later. Use the website to purchase the least expensive tickets for this trip.
 
-This example task scenario provides a context for the task and necessary details \(number of people, departure airport, arrival airport, etc.\) – **without** giving away the specific steps to complete the task.
+This example task scenario provides a context for the task \(family vacation\) and necessary details \(number of people, departure airport, arrival airport, etc.\) – **without** giving away the specific steps to complete the task.
 
 The task scenario should **avoid** using the same key words that are used in the interface screens of the prototype/product because it will be a direct clue to the participant of what to click or tap. For example, if an airline website has a link or button labeled as “Book a Flight,” the scenario should use a different wording when describing this task, such as:  find flights, reserve a trip, buy tickets, etc.
 
