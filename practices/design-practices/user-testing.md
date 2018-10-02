@@ -1,12 +1,12 @@
 # User Testing \(Usability Testing\)
 
-**User testing \(also called usability testing\)** is a method for testing the usability of a prototype or product by observing users as they try to complete tasks using the prototype/product.
+**User testing \(also called usability testing\)** is a method in which you observe individual users as they try to complete tasks using a prototype or product. The users are asked to "think aloud" to explain what they are seeing, thinking, and doing while trying to complete the tasks.
 
-The goal of user testing is to gather data to evaluate whether the prototype/product is easy to understand and use. You'll also determine what changes could be made to the design of the prototype/product to fix any problems that were revealed during user testing.
+The goal of user testing is to gather data to evaluate whether the prototype/product is easy to understand and use. You'll use this data to generate ideas for possible changes in the design of the prototype/product that might fix any problems observed during user testing.
 
-User testing is helpful throughout design and development. Early in the design process, you could conduct user testing with low-fidelity interface sketches. Later in the design process, you could test a high-fidelity interactive prototype. During and after development, you could conduct user testing with the current version of your product.  Ideally, your team would conduct user testing multiple times as you design and develop your solution.
+User testing is helpful throughout the design and development process. Early in the design process, you can conduct user testing with low-fidelity interface sketches to explore different ideas. Later in the design process, you can test high-fidelity interactive prototypes to refine a specific concept. During and after development, you can conduct user testing with the current version of your product to verify and refine features. Ideally, your team should conduct user testing as often as possible during the design and development of your solution.
 
-User testing consists of four major steps:
+Once you have a particular prototype or product to evaluate, conducting user testing requires four major steps:
 
 1. Create Task Scenarios
 2. Recruit Participants
@@ -27,9 +27,9 @@ For example, a task for an airline website might be to “book a flight.” The 
 
 > You're planning a family vacation to Colorado. You need tickets for 4 people to fly from Indianapolis to Denver. You want to leave on a Saturday in July and come back one week later. Use the website to purchase the least expensive tickets for this trip.
 
-This example task scenario provides a context for the task \(family vacation\) and necessary details \(number of people, departure airport, arrival airport, etc.\) – **without** giving away the specific steps to complete the task.
+This example task scenario provides a context for the task \(family vacation\) and necessary details \(number of people, departure airport, arrival airport, timeframe for departure and return, least expensive tickets, etc.\) – **without** giving away the specific steps for how to complete the task.
 
-The task scenario should **avoid** using the same key words that are used in the interface screens of the prototype/product because it will be a direct clue to the participant of what to click or tap. For example, if an airline website has a link or button labeled as “Book a Flight,” the scenario should use a different wording when describing this task, such as:  find flights, reserve a trip, buy tickets, etc.
+The task scenario should **avoid** using the same key words that are present in the interface screens of the prototype/product because it acts as a direct clue to the participant of what to click or tap. For example, if an airline website has a button labeled as “Book a Flight,” the scenario should use a different wording for the task, such as:  find flights, compare options, reserve a trip, buy tickets, etc.
 
 ## Recruit Participants
 
@@ -46,19 +46,19 @@ If you're recruiting people in advance, be sure that the participant knows the e
 
 ## Facilitate Testing Sessions
 
-You’ll conduct an individual testing session for each participant. Be sure you have all your materials ready and organized before the session starts \(e.g., computer or other device for participant to use, printed task scenarios, paper and pencil to record notes, etc.\).
+You’ll conduct an individual testing session for each participant. Be sure you have all your materials ready before the session starts \(e.g., prototype or product to be tested, computer or other device for participant to use, printed task scenarios, paper and pencil to record notes, etc.\).
 
 At the start of the session, welcome the participant, and explain the overall testing process:
 
 * The participant will complete a series of tasks using the prototype/product. The participant will have to figure out the specific steps for each task without help from your team.
-* The participant should “think aloud” as he or she interacts with the prototype/product, so your team can understand what the person is seeing, doing, and thinking.
+* The participant should “think aloud” as he or she interacts with the prototype/product, so your team can understand what the person is seeing, thinking, and doing.
 * Clarify that the prototype/product is being tested – **not** the participant. Explain that the goal is to gather information to help improve the prototype/product.
 
 Have the participant work on one task at a time. Give the participant a printed copy of the first task scenario, and read it out loud to the participant. As the participant tries to complete the task, your team should observe:
 
 * Your team should record notes describing any problems or issues that you see or hear.  Don't provide any hints or feedback to the participant as they work on the task.
 * If necessary, remind the participant to “think aloud” as they work on the task. Because it’s not a natural habit to think out loud, some participants will forget to keep doing it. If the person has stopped talking, you could ask them “What are thinking right now?” to get them talking again.
-* If the person asks for help, just remind them that you can’t give them any hints. However, you can clarify the task scenario if it’s unclear. If necessary, remind the participant that the purpose of the session is to learn how someone would try to complete task when no one else is around to help. If necessary, you could redirect them by asking "What do you think the next step should be?"
+* If the person asks for help, just remind them that you can’t give them any hints. However, you can clarify the task scenario if it’s unclear. If necessary, remind the participant that the purpose of the session is to learn how someone would try to complete task when no one else is around to help. If necessary, you could redirect them by asking "What do you think the next step might be?"
 
 You should end the task when one of the following has occurred:
 
@@ -66,7 +66,7 @@ You should end the task when one of the following has occurred:
 * The participant believes the task is completed \(even if it isn’t\).
 * The participant is confused, frustrated, or unable to complete the task \(and more time won’t help\).
 
-Let the participant know that you’re moving on to the next task. You could say something like “Thank you. That was helpful. Let’s move on to our next task.” Then give the participant the next task scenario, and repeat the previous steps.
+Regardless of whether or not the participant completed the task, you could say something like “Thank you. That was very helpful. Let’s move on to our next task.” Then give the participant the next task scenario, and repeat the previous steps.
 
 Be sure to leave a few minutes at the end of the session for your team to ask any follow-up questions about specific issues that occurred during the testing. It’s better to ask these questions at the end, rather than interrupting the participant during the tasks. This is an opportunity for your team to probe deeper to understand **why** the participant did or said certain things as they interacted with the prototype/product.
 
