@@ -82,7 +82,7 @@ Once you’ve tested the prototype/product with each of your 3-5 participants, y
 2. Estimate the severity of the issue \(as Low, Medium, or High\).
 3. Identify a possible design change that might solve the issue.
 
-[Jakob Nielsen](https://www.nngroup.com/) is a usability expert that recommends rating the severity of usability issues \(as Low, Medium, or High\) based on \(1\) the number of users that are likely to experience the issue, and \(2\) the size of the impact on the user experience. This table shows Nielsen's severity rating matrix:
+[Jakob Nielsen](https://www.nngroup.com/) is a usability expert that recommends rating the severity of usability issues as **Low**, **Medium**, or **High** based on:  \(1\) how many users are likely to experience the issue, and \(2\) what impact the issue will have on the user experience. This table shows Nielsen's severity rating matrix:
 
 | SEVERITY RATING | **Few Users Likely to Experience Issue** | **Many Users Likely to Experience Issue** |
 | :--- | :--- | :--- |
