@@ -103,9 +103,11 @@ For each issue that occurred during the testing session:
 
 ### Feasibility of Changes
 
-Once you've discovered an issue with your prototype/product and identified a possible change to fix it, you might realize that some changes are easier or harder than others to implement. There are many factors that could affect the feasibility of implementing a change, but two main factors are:  \(1\) how much time will it require, and \(2\) how much technical expertise will it require.
+Once you've discovered problems with your prototype/product and identified possible changes to fix the issues, you might realize that some changes will be easier or harder than others to implement.
 
-Depending on your project schedule, you probably have a limited amount of time to implement changes.  Depending on your team's current abilities and available resources, there might be certain changes that would be more difficult to implement at the moment. This table shows a feasibility rating matrix based on these two factors: 
+There are many factors that can affect the feasibility of implementing a design change, but two main factors are:  \(1\) how much time will it require, and \(2\) how much technical expertise will it require.
+
+Depending on your project schedule, you probably have a limited amount of time to implement changes.  Depending on your team's current abilities and available resources, there might be certain changes that will be more difficult to implement at the moment. This table shows a feasibility rating matrix for a design change based on these two factors: 
 
 | **FEASIBILITY RATING** | **More Technical to Implement** | **Less Technical to Implement** |
 | :--- | :--- | :--- |
@@ -114,7 +116,7 @@ Depending on your project schedule, you probably have a limited amount of time t
 
 ### Priority of Changes
 
-You should prioritize the changes to be implemented in your team's prototype/product since your time may not be able to address all the issues in the current design cycle. This table shows a priority rating matrix based on the severity and feasibility of the issue:
+You should prioritize the changes that will be implemented in your team's prototype/product since your team may not be able to address all the issues in the current design cycle. This table shows a priority rating matrix based on the severity and feasibility of each issue:
 
 | **PRIORITY RATING** | **Low Feasibility** | **Medium Feasibility** | **High Feasibility** |
 | :--- | :--- | :--- | :--- |
