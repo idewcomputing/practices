@@ -76,22 +76,51 @@ Be sure to thank the participant for their time and feedback.
 
 [Evaluation Findings Template](https://drive.google.com/open?id=1Axgyn6N2p7DMMRFWmX5m2AF_ie8GtYJfuW6wQm2K-BI)
 
-Once you’ve tested the prototype/product with each of your 3-5 participants, your team should review and discuss the observations and notes from the sessions, in order to summarize your evaluation findings:
+Once you’ve tested the prototype/product with each of your 3-5 participants, your team should review and discuss the observations and notes from the sessions, in order to summarize your evaluation findings.
 
-1. Briefly describe each issue that occurred in the testing sessions.
-2. Estimate the severity of the issue \(as Low, Medium, or High\).
-3. Identify a possible design change that might solve the issue.
+For each issue that occurred during the testing session:
 
-[Jakob Nielsen](https://www.nngroup.com/) is a usability expert that recommends rating the severity of usability issues as **Low**, **Medium**, or **High** based on:  \(1\) how many users are likely to experience the issue, and \(2\) what impact the issue will have on the user experience. This table shows Nielsen's severity rating matrix:
+1. Briefly **describe the issue**.
+2. Estimate the **severity** of the issue.
+3. Identify a **possible design change** that might solve the issue.
+4. Estimate the **feasibility** of implementing the change.
+5. Determine the **priority** of implementing the change.
+
+### Severity of Issues
+
+[Jakob Nielsen](https://www.nngroup.com/) is a usability expert that recommends rating the severity of usability issues as **Low**, **Medium**, or **High** based on:  \(1\) the issue's impact on the user experience, and \(2\) how many users are likely to experience the issue. This table shows Nielsen's severity rating matrix:
 
 | SEVERITY RATING | **Few Users Likely to Experience Issue** | **Many Users Likely to Experience Issue** |
 | :--- | :--- | :--- |
 | **Small Impact on User Experience** | Low | Medium |
 | **Large Impact on User Experience** | Medium | High |
 
-[Steve Krug](http://sensible.com/) is a usability expert that recommends a process of tweaking a design to fix problems, rather than completely redesigning something. This diagram shows Krug's process:
+### Design Changes
+
+[Steve Krug](http://sensible.com/) is a usability expert that recommends a process of **tweaking** a design to fix problems, rather than completely redesigning something. This diagram shows Krug's process:
 
 ![](../../.gitbook/assets/steve-krug-tweak-process.png)
 
-As time and resources allow, your team should try to implement the recommended design changes for the most severe issues. If possible, test the revised prototype/product with a new set of participants to verify whether the issues have been resolved.
+### Feasibility of Changes
+
+Once you've discovered an issue with your prototype/product and identified a possible change to fix it, you might realize that some changes are easier or harder than others to implement. There are many factors that could affect the feasibility of implementing a change, but two main factors are:  \(1\) how much time will it require, and \(2\) how much technical expertise will it require.
+
+Depending on your project schedule, you probably have a limited amount of time to implement changes.  Depending on your team's current abilities and available resources, there might be certain changes that would be more difficult to implement at the moment. This table shows a feasibility rating matrix based on these two factors: 
+
+| **FEASIBILITY RATING** | **More Technical to Implement** | **Less Technical to Implement** |
+| :--- | :--- | :--- |
+| **More Time Required to Implement** | Low | Medium |
+| **Less Time Required to Implement** | Medium | High |
+
+### Priority of Changes
+
+You should prioritize the changes to be implemented in your team's prototype/product since your time may not be able to address all the issues in the current design cycle. This table shows a priority rating matrix based on the severity and feasibility of the issue:
+
+| **PRIORITY RATING** | **Low Feasibility** | **Medium Feasibility** | **High Feasibility** |
+| :--- | :--- | :--- | :--- |
+| **Low Severity** | Low | Low | Medium |
+| **Medium Severity** | Low | Medium | High |
+| **High Severity** | Medium | High | High |
+
+As time and resources allow, your team should try to implement the recommended design changes for the highest priority issues first. If possible, test the revised prototype/product with a new set of participants to verify whether the issues have been resolved.
 
