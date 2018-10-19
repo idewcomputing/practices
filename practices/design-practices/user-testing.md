@@ -29,7 +29,7 @@ For example, a task for an airline website might be to “book a flight.” The 
 
 This example task scenario provides a context for the task \(family vacation\) and necessary details \(number of people, departure airport, arrival airport, timeframe for departure and return, least expensive tickets, etc.\) – **without** giving away the specific steps for how to complete the task.
 
-The task scenario should **avoid** using the same key words that are present in the interface screens of the prototype/product because it acts as a direct clue to the participant of what to click or tap. For example, if an airline website has a button labeled as “Book a Flight,” the scenario should use a different wording for the task, such as:  find flights, compare options, reserve a trip, buy tickets, etc.
+The task scenario should **avoid** using the same key words that are present in the interface screens of the prototype/product because it acts as a direct clue to the participant of what to click or tap. For example, if an airline website has a button labeled as “Book a Flight,” the scenario should use a different \(yet equivalent\) wording for the task, such as:  find flights, compare options, reserve a trip, buy tickets, etc.
 
 ## Recruit Participants
 
