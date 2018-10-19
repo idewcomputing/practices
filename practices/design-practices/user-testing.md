@@ -74,9 +74,9 @@ Be sure to thank the participant for their time and feedback.
 
 ## Summarize Findings
 
-[Evaluation Findings Template](https://drive.google.com/open?id=1Axgyn6N2p7DMMRFWmX5m2AF_ie8GtYJfuW6wQm2K-BI)
-
 Once you’ve tested the prototype/product with each of your 3-5 participants, your team should review and discuss the observations and notes from the sessions, in order to summarize your evaluation findings.
+
+* [Evaluation Findings Template](https://drive.google.com/open?id=1lQUSyjqKTbo1Pth34okLd43AZw2O_zkC7zYE1grwHv0)
 
 For each issue that occurred during the testing session:
 
@@ -107,7 +107,7 @@ Once you've discovered problems with your prototype/product and identified possi
 
 There are many factors that can affect the feasibility of implementing a design change, but two main factors are:  \(1\) how much time will it require, and \(2\) how much technical expertise will it require.
 
-Depending on your project schedule, you probably have a limited amount of time to implement changes.  Depending on your team's current abilities and available resources, there might be certain changes that will be more difficult to implement at the moment. This table shows a feasibility rating matrix for a design change based on these two factors: 
+Depending on your project schedule, you probably have a limited amount of time to implement changes.  Depending on your team's current technical abilities and available resources, there might be certain changes that will be more difficult to implement at the moment. This table shows a feasibility rating matrix for a design change based on these two factors: 
 
 | **FEASIBILITY RATING** | **More Technical to Implement** | **Less Technical to Implement** |
 | :--- | :--- | :--- |
