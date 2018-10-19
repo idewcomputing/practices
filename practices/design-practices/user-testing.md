@@ -6,7 +6,7 @@ The goal of user testing is to gather data to evaluate whether the prototype/pro
 
 User testing is helpful throughout the design and development process. Early in the design process, you can conduct user testing with low-fidelity interface sketches to explore different ideas. Later in the design process, you can test high-fidelity interactive prototypes to refine a specific concept. During and after development, you can conduct user testing with the current version of your product to verify and refine features. Ideally, your team should conduct user testing as often as possible during the design and development of your solution.
 
-Once you have a particular prototype or product to evaluate, conducting user testing requires four major steps:
+Once you have a particular prototype or product to evaluate, user testing requires four major steps:
 
 1. Create Task Scenarios
 2. Recruit Participants
