@@ -70,7 +70,7 @@ Regardless of whether or not the participant completed the task, you could say s
 
 Be sure to leave a few minutes at the end of the session for your team to ask any follow-up questions about specific issues that occurred during the testing. It’s better to ask these questions at the end, rather than interrupting the participant during the tasks. This is an opportunity for your team to probe deeper to understand **why** the participant did or said certain things as they interacted with the prototype/product.
 
-In some cases, your team might have participants also complete a post-testing survey or interview to gather additional evaluation data \(quantitative and/or qualitative\).
+In some cases, your team might have participants also complete a post-testing survey or interview to gather additional evaluation data that can be analyzed \(quantitative and/or qualitative\).
 
 Be sure to thank the participant for their time and feedback.
 
