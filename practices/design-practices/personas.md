@@ -27,7 +27,11 @@ There are different formats for personas, but personas are usually condensed to 
 * **Frustrations and Concerns** \(what pain points does user experience with the current situation or current solutions\)
 * **Needs and Expectations** \(what are user’s expectations related to the functionality, usability, and user experience of possible new solution\)
 
-A product or service might have many different types of users with different backgrounds, goals, and needs. Therefore, different personas could be created to model these different types of users. However, it might not be possible \(or desirable\) to design an solution that tries to meet the needs of every possible type of user. Often this results in a solution that doesn’t actually satisfy anyone. Instead, it is recommended to identify the **primary type of user** that will be your main target for designing your solution.
+A product or service might have many different types of users with different backgrounds, goals, and needs. Therefore, different personas could be created to model these different types of users. However, it might not be possible \(or desirable\) to design a solution that tries to meet the needs of every possible type of user. Often this results in a solution that doesn’t actually satisfy anyone. Instead, it is recommended to identify the **primary type of user** that will be your main target for designing your solution.
+
+{% hint style="info" %}
+**USER VS. STAKEHOLDER:**  Personas are typically created for end users – i.e., people that direct interact with the product or service. Sometimes personas are created for stakeholders. A stakeholder is anyone that is affected by \(or interested in\) the use or performance of the product or service. Every end user is considered a stakeholder – however, not every stakeholder is an end user. In fact, some products \(e.g., robot, etc.\) might not have any actual end users, but they will have stakeholders \(e.g., people affected by the robot's performance, etc.\).
+{% endhint %}
 
 ## Scenario
 
