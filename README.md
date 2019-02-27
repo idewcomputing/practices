@@ -2,7 +2,7 @@
 
 ## Copyright and License
 
-Copyright © 2015-2019 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
+Copyright © 2017-2019 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
 
 This material is part of the [Computing by Design](https://docs.idew.org/the-cxd-framework/) high school computer science curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\)](http://soic.iupui.edu/idew/) program, an award-winning community partnership in central Indiana that is broadening student participation in computing and helping students develop the skills essential for success in the 21st century workplace.
 
