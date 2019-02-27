@@ -1,4 +1,6 @@
-# Principles & Practices in Computing by Design
+# Principles & Practices
+
+This guidebook provides references to help explain principles and practices in design and programming that will be used in different Computing by Design projects.
 
 ## Copyright and License
 
